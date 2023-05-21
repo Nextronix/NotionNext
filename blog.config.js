@@ -181,6 +181,27 @@ const BLOG = {
       'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
       
     },
+    {
+      name: '相亲相爱一家人',
+      artist: '编辑部',
+      url: 'https://od.lk/d/OTZfODEyNDU3MjNf/%E7%9B%B8%E4%BA%B2%E7%9B%B8%E7%88%B1%E4%B8%80%E5%AE%B6%E4%BA%BA-%E7%BC%96%E8%BE%91%E9%83%A8.mp3',
+      cover:
+        'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+    {
+      name: '相信我们会创造奇迹',
+      artist: '综合部',
+      url: 'https://od.lk/d/OTZfODEyNDU2MTBf/%E6%B8%A9%E4%BA%AE%E4%BA%AE%20-%20%E7%9B%B8%E4%BF%A1%E6%88%91%E4%BB%AC%E4%BC%9A%E5%88%9B%E9%80%A0%E5%A5%87%E8%BF%B9-%E7%BB%BC%E5%90%88%E9%83%A8%282%29.mp3',
+      cover:
+        'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+    {
+      name: '灯塔之歌',
+      artist: '',
+      url: 'https://od.lk/d/OTZfODEyNDU0ODhf/%E7%81%AF%E5%A1%94%E4%B9%8B%E6%AD%8C%20%281%29.mp3',
+      cover:
+        'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
   MUSIC_PLAYER_METING_SERVER:
