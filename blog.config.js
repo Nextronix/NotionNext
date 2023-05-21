@@ -184,14 +184,14 @@ const BLOG = {
     {
       name: '相亲相爱一家人',
       artist: '编辑部',
-      url: 'https://od.lk/s/OTZfODEyNDU3MjNf/%E7%9B%B8%E4%BA%B2%E7%9B%B8%E7%88%B1%E4%B8%80%E5%AE%B6%E4%BA%BA-%E7%BC%96%E8%BE%91%E9%83%A8.mp3',
+      url: 'https://music.163.com/song/media/outer/url?id=1302657263.mp3',
       cover:
         'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBcHJqVEQxODQ4MGhpaGhrVmpJMjJiOTRiZUItP2U9RTM3SEh6.jpg'
     },
     {
       name: '相信我们会创造奇迹',
       artist: '综合部',
-      url: 'https://od.lk/s/OTZfODEyNDU2MTBf/%E6%B8%A9%E4%BA%AE%E4%BA%AE%20-%20%E7%9B%B8%E4%BF%A1%E6%88%91%E4%BB%AC%E4%BC%9A%E5%88%9B%E9%80%A0%E5%A5%87%E8%BF%B9-%E7%BB%BC%E5%90%88%E9%83%A8%282%29.mp3',
+      url: 'https://music.163.com/song/media/outer/url?id=165934.mp3',
       cover:
         'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBcHJqVEQxODQ4MGhpaGNYVm5YaTExcmNkWlp6P2U9TVhMeDFB.jpg'
     },
@@ -201,6 +201,27 @@ const BLOG = {
       url: 'https://od.lk/s/OTZfODEyNDU0ODhf/%E7%81%AF%E5%A1%94%E4%B9%8B%E6%AD%8C%20%281%29.mp3',
       cover:
         'https://od.lk/s/OTZfODEyNzc1Njdf/%E7%81%AF%E5%A1%94%E4%B9%8B%E6%AD%8C.jpg'
+    },
+    {
+      name: '把根留住',
+      artist: '学研部',
+      url: 'https://music.163.com/song/media/outer/url?id=150904.mp3',
+      cover:
+        'https://od.lk/s/OTZfODEyODMwNDBf/%E4%B8%8B%E8%BD%BD%20%281%29.jpg'
+    },
+    {
+      name: '梦开始的地方',
+      artist: '宣传部',
+      url: 'https://od.lk/s/OTZfODEyNDU1MzVf/%E6%A2%A6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9C%B0%E6%96%B9-%E5%AE%A3%E4%BC%A0%E9%83%A8%20%281%29.mp3',
+      cover:
+        'https://od.lk/s/OTZfODEyODQyOTNf/%E6%A2%A6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%9C%B0%E6%96%B9.jpg'
+    },
+    {
+      name: '切·格瓦拉-家园',
+      artist: '',
+      url: 'https://music.163.com/song/media/outer/url?id=193538.mp3',
+      cover:
+        'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBcHJqVEQxODQ4MGhpaDZjR3pWajQzbmhQaW5iP2U9Sjl5emV0.jpg'
     },
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
