@@ -176,7 +176,7 @@ const BLOG = {
     {
       name:'支农队队歌',
       artist:'支农队',
-      url:'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2YvcyFBcHJqVEQxODQ4MGhpZ3FWWjE3WUhBdF9zWkJPP2U9ZmhHRWpo.mp3',
+      url:'https://public.dm.files.1drv.com/y4mHRTwRRmo0te-drSYw3qD8epBHc9vNpr3pppkY5yKkulpYZjNxn7vuaurFopcEBfiO6UcEEeRZu_cocWwkbdbtmpKDynRt4y2-cwnlTM2zUax8iRtRp27FxDgLyquAmca8H9OmXFn9HziKPlvjSwRR4N4AVzvy8Muw05aV-XPadoenXjzOcoBo4XJp55Y8YQI6cOY9rv4n99D7eNsdfvPb6VstjibfVwjvSz4koYEnoo',
       cover:
       'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
       
